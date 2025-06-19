@@ -7,6 +7,8 @@
 - **HTML**
 - **CSS**
 - **JavaScript**
+- **PHP**
+- **mysql**
 
 ## ⚙️ How to Install and Run the Project
 
@@ -29,16 +31,17 @@ To run the GradeVerse project locally, follow these steps:
 - Administrators can track overall performance trends and generate summaries.
 - Designed for ease of use with a clean, intuitive UI.
 
-## ✨ Features (Optional)
+## ✨ Features
 
 - Easy input and update of student records.
 - Real-time performance tracking.
-- Data visualization (optional for future updates).
-- Role-based access (admin/educator).
+- Data visualization 
+- Role-based access 
 
 ## 📄 License
 
-This project is licensed under the **MIT License**.
+This project is **not licensed** and is intended for **educational purposes only**.  
+Feel free to use or modify it for learning and academic use.
 
 ## 👤 Author
 
